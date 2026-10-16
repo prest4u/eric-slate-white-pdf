@@ -3,7 +3,7 @@
   "canonical_repository": "prest4u/eric-agent-skills",
   "skill": "eric-slate-white-pdf",
   "version": "1.0.1",
-  "source_commit": "b099eccddf74ec6a4aef3376fb281b70c867475d",
+  "source_commit": "dc360d012f77bd665727260ee0cd4b41e4ce966f",
   "managed_files": {
     ".gitignore": "3dd71c21fdccd3e9ba02947edb9e5dc0a1935919bcf3d69076398518149376c2",
     "CONTRIBUTING.md": "1c705a48aeeab2061e6578c2c6b8bf57ba7349586da59745a2430a36d8e2a7f6",
@@ -11,7 +11,7 @@
     "README.md": "b307ed53cd9efbb772e3fe35adb39d97bd8063f24a182c743bed53670152a145",
     "SECURITY.md": "a48a4a92a24aba36c77410a6c57aee63a54e086274331b7bd097eb89ac8bf2c6",
     "SKILL.md": "ce854b6c1654d549a8a4045f5c461685a1d1a25254cde4c74eb88a95adafa179",
-    "THIRD_PARTY_NOTICES.md": "9db426aab5d3f9aa0c65fdae33ccbaf05ca9f43b3c1b85cd2aa9ff96656679bd",
+    "THIRD_PARTY_NOTICES.md": "3ea0fc13111ef8c9c960eed0301bb17c288730b04c3698545a08bd16f08f2783",
     "agents/openai.yaml": "4ccefea3e17f541ed9b8db9293df6f3fff49e8bf605e7ad2e5c85c22fd486e5a",
     "assets/starter.typ": "28c8db1e2b6f87238132fdc147ebbd9cf403cb754d3b0f0d2269c59a383d7099",
     "references/page-roles.md": "0982a2168275cfa6017657f7851f8dd2308ea37d0b1944c232813b79d4e7af68",
